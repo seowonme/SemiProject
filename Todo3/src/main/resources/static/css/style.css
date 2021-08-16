@@ -42,7 +42,7 @@ p {
   border-width: 2px;
   border-style: solid;
   border-radius: 5px;
-  background-color: #008CBA;
+  background-color: #1E90FF;
   cursor: pointer;
   color: white;
   display: inline-flex;
@@ -63,7 +63,7 @@ p {
 
 .delete-all button {
   color: white;
-  background-color: rgb(237, 76, 81);
+  background-color: #ED6476;
   border-radius: 5px;
   font-size: 0.8em;
   cursor: pointer;
@@ -78,7 +78,8 @@ p {
 .incomplete {
   text-align: center;
   width: 400px;
-  background-color: pink;
+  background-color: #337882;
+  color: white;
 }
 
 .incomplete form {
@@ -99,5 +100,6 @@ p {
 .complete {
   text-align: center;
   width: 400px;
-  background-color: green;
+  background-color: white;
+  color : #337882
 }
